@@ -23,4 +23,5 @@ Structure: They create a clear, logical structure, making it easier to navigate 
 Ensure headings accurately reflect the content of the section. Consistency: Use a consistent style and format throughout the document. Hierarchy: Clearly distinguish between main headings and subheadings (e.g., using size, font, or numbering).
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
 Be upfront: Tell people what the product does right away. Keep it simple: Assume no prior knowledge. Include clear steps: Guide users through setup and basic use. Anticipate problems: Offer solutions to common issues.
-## 12. How can you succinctly convey the purpose and key features of a product?Elevator Pitch: Craft a concise statement that captures the essence of the product. Bullet Points: List key features in short, easy-to-read bullet points. User Benefits: Focus on what the user gains by using the product
+## 12. How can you succinctly convey the purpose and key features of a product?
+Elevator Pitch: Craft a concise statement that captures the essence of the product. Bullet Points: List key features in short, easy-to-read bullet points. User Benefits: Focus on what the user gains by using the product
